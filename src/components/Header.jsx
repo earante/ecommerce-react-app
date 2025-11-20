@@ -18,6 +18,7 @@ export function Header({cart}) {
           </Link>
         </div>
 
+
         <div className="middle-section">
           <input className="search-bar" type="text" placeholder="Search" />
 
